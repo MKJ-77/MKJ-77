@@ -10,7 +10,7 @@
 
 
 ### 🌱 I’m currently learning:
-**Android Development using Jetpack Compose **
+**Android Development using Jetpack Compose**
 
 ### 📫 How to reach me:
 **mkjmp77@gmail.com**
