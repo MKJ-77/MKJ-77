@@ -9,14 +9,11 @@
 <!-- Optional: Animated GIFs Section -->
 
 
-### 🌱 I’m currently learning:
-**Android Development using Jetpack Compose**
+### 🌱 I’m currently learning: **Android Development using Jetpack Compose**
 
-### 📫 How to reach me:
-**mkjmp77@gmail.com**
+### 📫 How to reach me: **mkjmp77@gmail.com**
 
-### ⚡ Fun fact:
-**I think I'm funny 😄**
+### ⚡ Fun fact: **I think I'm goofy 😄**
 
 ---
 
