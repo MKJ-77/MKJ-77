@@ -76,7 +76,7 @@
 </p>
 
 ---
-
+<br>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mkj-77&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" width="350"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mkj-77&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" width="350" height="200"/>
 </p>  
