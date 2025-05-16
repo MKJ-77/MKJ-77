@@ -71,12 +71,12 @@
 
 ### 📊 GitHub Stats:
 <p>
-  &nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=mkj-77&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
-  <img align="left" src="https://streak-stats.demolab.com?user=mkj-77&theme=radical" alt="GitHub Streak"/>
+  &nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=mkj-77&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" width="400" />
+  <img align="left" src="https://streak-stats.demolab.com?user=mkj-77&theme=radical" alt="GitHub Streak" width="400"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mkj-77&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mkj-77&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" width="350"/>
 </p>  
