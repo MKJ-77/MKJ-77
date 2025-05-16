@@ -66,14 +66,17 @@
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
 </p>
 
+
 ---
 
 ### 📊 GitHub Stats:
-
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mkj-77&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+  &nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=mkj-77&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+  <img align="left" src="https://streak-stats.demolab.com?user=mkj-77&theme=radical" alt="GitHub Streak"/>
 </p>
 
-<p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mkj-77&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
-</p>
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mkj-77&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages"/>
+</p>  
