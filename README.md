@@ -71,9 +71,9 @@
 ### 📊 GitHub Stats:
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mkj-77&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mkj-77&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 <p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mkj-77&show_icons=true&locale=en" alt="GitHub Stats" />
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mkj-77&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
 </p>
